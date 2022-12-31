@@ -1,10 +1,47 @@
-.homepage-title {
+/* global */
+
+h1 {
     background-color: goldenrod;
     color: black;
     font-size: 70px;
-    font-family: 'Georgia', "serif";
+    font-family: "Georgia", "serif";
 }
 
+h2 {
+    background-color: #5d6d7c;
+    color: #f2efe2;
+    font-size: 25px;
+    font-family: "Georgia", "serif";
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+    font-family: "Georgia", "serif";
+    margin: 10px;
+}
+
+li {
+    color: black;
+    font-size: 18px;
+    font-family: "Georgia", "serif";
+    margin: 15px;
+}
+
+/* index.html */
+
+/* .homepage-title {
+    background-color: goldenrod;
+    color: black;
+    font-size: 70px;
+    font-family: "Georgia", "serif";
+}
+*/
 .chicken-katsu-ref,
 .bacon-wrapped-ref,
 .fettuccine-ref {
@@ -13,3 +50,13 @@
     font-family: "Tahoma", "Verdana", "serif";
     padding: 8px 5px;
 }
+
+/* chicken_katsu.html */
+
+/* .chicken-katsu-title {
+    background-color: goldenrod;
+    color: black;
+    font-size: 60px;
+    font-family: "Georgia", "serif";
+}
+*/ 
